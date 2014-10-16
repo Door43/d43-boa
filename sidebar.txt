@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[boa:home|Door43 (boa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-boa|d43-boa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-boa/archive/master.zip|d43-boa.zip]]
+
+**Recent Changes**
+{{changes>ns = boa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/boa|Ethnologue data]]
+
